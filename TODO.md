@@ -22,4 +22,6 @@
 
 - sort and clean data using numpy/pandas
 
+- store data in db
+
 - retrieve news based on commodity from external news API
